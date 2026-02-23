@@ -1,1 +1,4 @@
+Work on branch B
 Work on branch C
+
+added manually to merge
